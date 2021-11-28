@@ -4,7 +4,7 @@ Arnab:capedev
 DreamMasterXXL:capedev
 Drobac:capedev
 Teteros:capedev
-basdxz:capetec
+basdxz:capemega
 bigbass1997:capedev
 Namikon:capedev
 Logy1:capedonor
@@ -60,7 +60,7 @@ LittleCircles:capedonor
 ghoulsblade:capedonor
 The_4th_Doctor_:capedev
 glowredman:capedev
-dog_365:capedev
+dog_365:capemega
 jackowski:capedev
 DvDmanDT:capedev
 KiloJoel:capedev
@@ -122,3 +122,5 @@ Ethryan:capedev
 El_Stampede:capedev
 Yarntheory:capedonor
 draknyte1:capedev
+Houstonruss:capemega
+The_Brochacho:capemega
